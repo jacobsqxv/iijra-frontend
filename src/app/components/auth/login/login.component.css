@@ -1,0 +1,15 @@
+/* login.component.scss */
+.forgot-password {
+  font-size: 14px;
+  font-weight: 700;
+  text-align: right;
+  margin-top: 1rem;
+
+  a {
+    color: #02007A;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+    font-size: 0.9rem;
+  }
+}
+
